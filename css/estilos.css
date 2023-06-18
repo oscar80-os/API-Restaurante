@@ -1,8 +1,12 @@
 .container {
+    
+    position: absolute;
+    top: 20rem;
+    left: 30rem;
     width: 300px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f0f0f0;
+    background-color: #67959a;
     border-radius: 5px;
 }
 
@@ -30,7 +34,7 @@ input[type="password"] {
 button {
     width: 100%;
     padding: 8px;
-    background-color: #4CAF50;
+    background-color: #c15764;
     color: #fff;
     border: none;
     border-radius: 3px;
@@ -38,9 +42,16 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #3bb089;
 }
 
 .register-link {
     margin-top: 10px;
+}
+
+.img  {
+  
+    position: absolute;
+    top: 7rem;
+    left: 34rem;
 }
