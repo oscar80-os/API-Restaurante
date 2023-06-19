@@ -7,6 +7,11 @@
     <title>RESTAURANTE</title>
     <link rel="stylesheet" href="/img/cocinera_logo.png">
     <link rel="stylesheet" href="/css/navegacion.css">
+
+
+    
+    
+
 </head>
 <body>
     
