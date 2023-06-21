@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +15,7 @@
     </div>
     <div class="container">
         <h2>Iniciar Sesión</h2>
-        <form action="api/autenticacion.php" method="POST">
+        <form action="index.php" method="POST">
             <div class="form-group">
                 <label for="username">Usuario:</label>
                 <input type="text" id="username" name="user" required>

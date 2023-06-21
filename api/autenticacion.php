@@ -3,7 +3,7 @@
 $user = $_POST['user'];
 $password = $_POST['password'];
 
-if ($user === 'ligia' && $password === '8956') {
+if ($user === 'oscar' && $password === '8012') {
     // Autenticación exitosa
     header('Location: http://localhost:3000/navegacion.php');
     exit();
